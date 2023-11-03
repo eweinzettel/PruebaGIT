@@ -1,2 +1,3 @@
 print('hola mundo')
-print("segunda entrada Hola mundo hola mundo")
+print("2da entrada Hola mundo")
+print("3er hola mundo **")
